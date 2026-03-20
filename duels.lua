@@ -1,1 +1,3 @@
-loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/b278e814ca7a4df697060cdc1e2516adcd2fef162914d551e237d65a582d04f6/download"))()
+script_key = "knvuhkmpbpyasffntv9ttv1d"
+
+loadstring(game:HttpGet("https://api.getpolsec.com/scripts/hosted/2acb4704751ba034a6b059e56f85ccb9ef043a827cecdca420bc9584c917aa99.lua"))()
